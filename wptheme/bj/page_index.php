@@ -44,7 +44,7 @@ Template Name: Home
 						<img src="<?php echo bloginfo('template_url').'/img/index/icecream.png'; ?>" alt="icecream">
 					</div>
 					<div class="info">
-						<h3>25%'ers, welkom bij de club</h3>
+						<h3>Join the club</h3>
 						<p>25% van de Belgische bevolking is lactose intollerant. Deze hebben dus nooit van onze producten kunnen proeven. Vandaar dat we het uiterst noodzakelijk vonden om daar verandering in te brengen. Wij bij ben en Jerry's hebben een product ontwikkeld dat een volledig lactose vrij is. Deze is dus ook geschikt voor veganisten. Diervriendelijk, Lactosevrij en Super Lekker!</p>
 					</div>
 				</div>
