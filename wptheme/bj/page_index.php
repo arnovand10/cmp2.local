@@ -26,8 +26,8 @@ Template Name: Home
 						<img src="<?php echo bloginfo('template_url').'/img/index/icecream.png'; ?>" alt="icecream">
 					</div>
 					<div class="info">
-						<h3>Titel overtuiginng</h3>
-						<p>Laten we even een momentje nemen om het over liefde te hebben. We willen niet moeilijk doen op de achterkant van een pint Ben &amp; Jerry's, maar we denken dat het de moeite waard is om het over liefde te hebben. Kijk eens naar deze smaak: liefdevol gemaakt met Fairtrade ingrediënten, Caring Dairy melk &amp; room, vrije uitloop eieren en 'topped' met een extra laag liefde. Pak die lepel erbij en ontdek alle lagen dat Ben &amp; Jerry’s … Ben &amp; Jerry’s maakt!</p>
+						<h3>Gemaakt met amandel melk</h3>
+						<p>Waarom Amandelmelk? Na het experimenteren met allerlei verschillende formules, hebben onze Flavour Gurus besloten dat amandelmelk het beste "lege canvas" voor de heerlijke brownies, karamel, noten en chocolade kreeg die we hebben verkregen. En het is zo rijk en romig dat je in een pint moet graven, je moet jezelf altijd herinneren dat het niet-zuivel is.</p>
 					</div>
 				</div>
 				<div class="flex-item flex-item-same">
@@ -35,8 +35,8 @@ Template Name: Home
 						<img src="<?php echo bloginfo('template_url').'/img/index/icecream.png'; ?>" alt="icecream">
 					</div>
 					<div class="info">
-						<h3>Titel overtuiginng</h3>
-						<p>Laten we even een momentje nemen om het over liefde te hebben. We willen niet moeilijk doen op de achterkant van een pint Ben &amp; Jerry's, maar we denken dat het de moeite waard is om het over liefde te hebben. Kijk eens naar deze smaak: liefdevol gemaakt met Fairtrade ingrediënten, Caring Dairy melk &amp; room, vrije uitloop eieren en 'topped' met een extra laag liefde. Pak die lepel erbij en ontdek alle lagen dat Ben &amp; Jerry’s … Ben &amp; Jerry’s maakt!</p>
+						<h3>Gecertificeerde Veganist</h3>
+						<p>Veganistvrienden, of u al drie decennia of drie dagen gewacht bent voor een gecertificeerde veganistische non-melkedecadentie, het is tijd om u te verheugen! We hebben samengewerkt met Vegan Actie om te certificeren dat onze non-zuivel geen dierlijke producten van welke aard ook ook omvat, inclusief eieren, zuivel of honing. Wij bewonderen u voor uw inzet en hopen dat u van de prachtige vegan chunks &amp; swirls houdt.</p>
 					</div>
 				</div>
 				<div class="flex-item flex-item-same">
@@ -44,8 +44,8 @@ Template Name: Home
 						<img src="<?php echo bloginfo('template_url').'/img/index/icecream.png'; ?>" alt="icecream">
 					</div>
 					<div class="info">
-						<h3>Titel overtuiginng</h3>
-						<p>Deze tekst dient ervoor om de mensen te overtuigen van ons geweldig nieuwe product. Het is ook de bedoeling dat deze tekst aangepast kan worden denk ik dan toch, via wordpress. Ik weet wel nog niet hoe 'k dit ga realiseren maar ik zal mijn plan wel trekken. Top Kek Ay Lmao 420 Blaze it Kappa 4Head EleGiggle KappaPride</p>
+						<h3>25%'ers, welkom bij de club</h3>
+						<p>25% van de Belgische bevolking is lactose intollerant. Deze hebben dus nooit van onze producten kunnen proeven. Vandaar dat we het uiterst noodzakelijk vonden om daar verandering in te brengen. Wij bij ben en Jerry's hebben een product ontwikkeld dat een volledig lactose vrij is. Deze is dus ook geschikt voor veganisten. Diervriendelijk, Lactosevrij en Super Lekker!</p>
 					</div>
 				</div>
 			</div>
