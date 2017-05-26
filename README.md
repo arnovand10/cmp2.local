@@ -1,4 +1,8 @@
+
 # cmp2.local
-CMP 2 Examen Opdracht
-Arno Van Den Bossche
-Bjorn Truye
+Arno Van Den Bossche & Bjorn Truye
+CMP 2 
+2016-2017
+Produce
+ArteveldeHogeschool
+
