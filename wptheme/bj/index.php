@@ -9,8 +9,6 @@
 		get_template_part('page_contact');
 	}else if($wp_query->query['pagename']=='overons'){
 		get_template_part('page_overons');
-	}else{
-		get_template_part('page_404.php');
 	}
 ?>
  <?php get_footer(); ?>
