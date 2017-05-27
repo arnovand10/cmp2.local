@@ -28,9 +28,9 @@
     <div class="container">
         
         <section class="smaken">
-        <div class="vergrootglas">
+        <!--<div class="vergrootglas">
             <i class="fa fa-search"></i>
-        </div>
+        </div>-->
         
             <?php 
                 $itemcount = 0;

@@ -221,4 +221,13 @@ function my_login_logo() { ?>
 <?php }
 add_action( 'login_enqueue_scripts', 'my_login_logo' );
 /** end custom wp-login*/
+
+/** toon meer dan 5 posts in archive**/
+function wpsites_query( $query ) {
+if ( $query->is_archive() && $query->is_main_query() && !is_admin() ) {
+        $query->set( 'posts_per_page', 100 );
+    }
+}
+add_action( 'pre_get_posts', 'wpsites_query' );
+/** end toon meer dan 5 posts **/
 ?>
